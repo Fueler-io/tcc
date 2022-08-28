@@ -15,13 +15,13 @@ function App() {
 								<img className="rounded-circle mb-4" src="https://cdn-icons-png.flaticon.com/512/3688/3688596.png" alt="" />
 							</div>
 							<div>
-								<a href="https://www.theclueless.company/" target={'_blank'} id='website-button' className='btn primary-button px-3 fw-500'>Explore Website</a>
+								<a href="https://www.theclueless.company/" id='website-button' className='btn primary-button px-3 fw-500'>Explore Website</a>
 							</div>
 						</div>
 						<h2 className='fw-bold primary-color'>The Clueless Company</h2>
 						<p className='text-gray fw-500'>Lorem ipsum dolor sit, amet consectetur error voluptas ut sunt libero necessitatibus qui.</p>
 
-						<a href="https://www.theclueless.company/" target={'_blank'} id='website-button-botom' className='btn primary-button px-3 fw-500'>Explore Website</a>
+						<a href="https://www.theclueless.company/" target="_blank" rel="noopener noreferrer" id='website-button-botom' className='btn primary-button px-3 fw-500'>Explore Website</a>
 					
 					</div>
 				</div>
@@ -169,7 +169,7 @@ function App() {
 			<footer className='my-4'>
 				<div className='text-center pb-5'>
 					<h5 className='mb-0 py-4'>
-						<a href="">
+						<a href="https://fueler.io">
 							Powered by <span><img src="https://fueler.io/images/fueler/main/fueler_logo.svg" width={120} alt="" /></span>
 						</a>
 					</h5>
