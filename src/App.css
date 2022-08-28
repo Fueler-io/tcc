@@ -144,6 +144,7 @@ footer{
 	.main-header-profile{
 		width: fit-content;
 		position: absolute;
+		top: -54px;
 	}
 
 	.main-header-profile img {
