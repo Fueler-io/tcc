@@ -38,7 +38,7 @@ function App() {
 					<div className="row justify-content-center py-4">
 						{/* POW IDea 1 */}
 						<div className="col-md-12 mb-4 pb-2">
-							<div className="card px-3">
+							<div className="card card-pink px-3">
 								<div className="card-body">
 									<div className="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center">
 										<div className='d-flex justify-content-start flex-wrap align-items-center'>
@@ -46,7 +46,7 @@ function App() {
 												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149280/fueler-emoji/vfx1bghkro4aredz3mut.png" alt="" />
 											</div>
 											<div className='card-content'>
-												<p className='mb-0 text-gray fw-500'>Lorem ipsum dolor sit, amet consectetur error voluptas ut sunt libero necessitatibus  this is an pow idea of development category.</p>
+												<p className='mb-0 text-basic fw-500'>Lorem ipsum dolor sit, amet consectetur error voluptas ut sunt libero necessitatibus  this is an pow idea of development category.</p>
 											</div>
 										</div>
 										<div className='card-tag'>
@@ -63,7 +63,7 @@ function App() {
 
 						{/* POW IDea 1 */}
 						<div className="col-md-12 mb-4 pb-2">
-							<div className="card px-3">
+							<div className="card card-green px-3">
 								<div className="card-body">
 									<div className="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center">
 										<div className='d-flex justify-content-start flex-wrap align-items-center'>
@@ -71,7 +71,7 @@ function App() {
 												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149280/fueler-emoji/vfx1bghkro4aredz3mut.png" alt="" />
 											</div>
 											<div className='card-content'>
-												<p className='mb-0 text-gray fw-500'>Lorem ipsum dolor sit, amet consectetur error voluptas ut sunt libero necessitatibus  this is an pow idea of development category.</p>
+												<p className='mb-0 text-basic fw-500'>Lorem ipsum dolor sit, amet consectetur error voluptas ut sunt libero necessitatibus  this is an pow idea of development category.</p>
 											</div>
 										</div>
 										<div className='card-tag'>
@@ -88,7 +88,7 @@ function App() {
 
 						{/* POW IDea 1 */}
 						<div className="col-md-12 mb-4 pb-2">
-							<div className="card px-3">
+							<div className="card card-teal px-3">
 								<div className="card-body">
 									<div className="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center">
 										<div className='d-flex justify-content-start flex-wrap align-items-center'>
@@ -96,7 +96,7 @@ function App() {
 												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149280/fueler-emoji/vfx1bghkro4aredz3mut.png" alt="" />
 											</div>
 											<div className='card-content'>
-												<p className='mb-0 text-gray fw-500'>Lorem ipsum dolor sit, amet consectetur error voluptas ut sunt libero necessitatibus  this is an pow idea of development category.</p>
+												<p className='mb-0 text-basic fw-500'>Lorem ipsum dolor sit, amet consectetur error voluptas ut sunt libero necessitatibus  this is an pow idea of development category.</p>
 											</div>
 										</div>
 										<div className='card-tag'>
@@ -113,7 +113,7 @@ function App() {
 
 						{/* POW IDea 1 */}
 						<div className="col-md-12 mb-4 pb-2">
-							<div className="card px-3">
+							<div className="card card-peach px-3">
 								<div className="card-body">
 									<div className="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center">
 										<div className='d-flex justify-content-start flex-wrap align-items-center'>
@@ -121,7 +121,7 @@ function App() {
 												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149280/fueler-emoji/vfx1bghkro4aredz3mut.png" alt="" />
 											</div>
 											<div className='card-content'>
-												<p className='mb-0 text-gray fw-500'>Lorem ipsum dolor sit, amet consectetur error voluptas ut sunt libero necessitatibus  this is an pow idea of development category.</p>
+												<p className='mb-0 text-basic fw-500'>Lorem ipsum dolor sit, amet consectetur error voluptas ut sunt libero necessitatibus  this is an pow idea of development category.</p>
 											</div>
 										</div>
 										<div className='card-tag'>
@@ -136,7 +136,7 @@ function App() {
 						</div>
 						{/* POW IDea 1 */}
 						<div className="col-md-12 mb-4 pb-2">
-							<div className="card px-3">
+							<div className="card card-blue px-3">
 								<div className="card-body">
 									<div className="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center">
 										<div className='d-flex justify-content-start flex-wrap align-items-center'>
@@ -144,7 +144,7 @@ function App() {
 												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149280/fueler-emoji/vfx1bghkro4aredz3mut.png" alt="" />
 											</div>
 											<div className='card-content'>
-												<p className='mb-0 text-gray fw-500'>
+												<p className='mb-0 text-basic fw-500'>
 													Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos ullam ab quasi minus! Ut ab, quibusdam atque saepe illum laborum perspiciatis cupiditate laboriosam rem quaerat at iste laudantium praesentium! Voluptatem.
 
 												</p>

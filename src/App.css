@@ -7,16 +7,19 @@
 }
 
 .primary-color{
-	color: #0d0543;
+	color: #0A0433;
 }
 .text-gray{
-	color: gray;
+	color: #8F92A1;
+}
+.text-basic{
+	color: #3E3D47;
 }
 .fw-500{
 	font-weight: 500;
 }
 .primary-button{
-	background: #0d0543;
+	background: #0A0433;
 	color: #fff;
 	border-radius: 6px;
 }
@@ -49,13 +52,15 @@ a{
 	width: 100%;
 	position: absolute;
 	top: -65px;
+	
 }
 
 .main-header-profile img{
 	height: 130px;
 	width: 130px;
-	background: red;
-	border: 2.5px solid red;
+	background: white;
+	border: 2.5px solid white;
+	backdrop-filter: blur(26.3948px);
 }
 .main-header-profile h2{
 	
@@ -75,13 +80,29 @@ a{
 	
 }
 .card{
-	border-radius: .65rem;
+	border-radius: 1rem;
+	border: none;
+}
+.card-pink{
+	background: #FFE8FB;
+}
+.card-green{
+	background: #F7FAE8;
+}
+.card-teal{
+	background: #E7F6F7;
+}
+.card-peach{
+	background: #FFEBE8;
+}
+.card-blue{
+	background: #EAF2FF;
 }
 
 .card-icon{
 	height: 64px;
 	width: 64px;
-	background: #ffedfb;
+	background: #fff;
 	border-radius: 50%;
 	display: grid;
 	place-content: center;
@@ -93,10 +114,11 @@ a{
 }
 
 .card-tag-button{
-	background: #e3fffd;
-	color: #0d0543;
+	background: #FFFFFF;
+	border: 1px solid rgba(10, 4, 51, 0.3);
+	border-radius: 8px;
+	color: #0A0433;
 	font-weight: 600;
-	border-radius: 6px;
 	font-size: .9rem;
 
 }
