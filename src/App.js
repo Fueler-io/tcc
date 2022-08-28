@@ -15,13 +15,13 @@ function App() {
 								<img className="rounded-circle mb-4" src="https://cdn-icons-png.flaticon.com/512/3688/3688596.png" alt="" />
 							</div>
 							<div>
-								<a href="" id='website-button' className='btn primary-button px-3 fw-500'>Explore Website</a>
+								<a href="https://www.theclueless.company/" target={'_blank'} id='website-button' className='btn primary-button px-3 fw-500'>Explore Website</a>
 							</div>
 						</div>
 						<h2 className='fw-bold primary-color'>The Clueless Company</h2>
 						<p className='text-gray fw-500'>Lorem ipsum dolor sit, amet consectetur error voluptas ut sunt libero necessitatibus qui.</p>
 
-						<a href="" id='website-button-botom' className='btn primary-button px-3 fw-500'>Explore Website</a>
+						<a href="https://www.theclueless.company/" target={'_blank'} id='website-button-botom' className='btn primary-button px-3 fw-500'>Explore Website</a>
 					
 					</div>
 				</div>
@@ -51,7 +51,7 @@ function App() {
 										</div>
 										<div className='card-tag'>
 											<div className='card-tag-button px-3 py-2'>
-												Development
+												Marketing
 											</div>
 										</div>
 									</div>
@@ -101,7 +101,7 @@ function App() {
 										</div>
 										<div className='card-tag'>
 											<div className='card-tag-button px-3 py-2'>
-												Development
+												Design
 											</div>
 										</div>
 									</div>
