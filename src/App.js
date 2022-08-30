@@ -18,7 +18,7 @@ function App() {
 										<img className="rounded-circle mb-4" src="https://www.theclueless.company/wp-content/uploads/2021/08/logo-clueless.svg" alt="" />
 									</div>
 									<div>
-										<a href="https://www.theclueless.company/" id='website-button' className='btn primary-button px-3 fw-500'>Explore Website</a>
+										<a href="https://www.theclueless.company/" id='website-button' className='btn primary-button px-3 fw-500'>Our Website</a>
 									</div>
 								</div>
 								<h2 className='fw-bold primary-color'>The Clueless Company</h2>
