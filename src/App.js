@@ -49,7 +49,7 @@ function App() {
 									<div className="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center">
 										<div className='d-flex justify-content-start flex-wrap align-items-center'>
 											<div className='card-icon my-3 mr-2'>
-												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149280/fueler-emoji/vfx1bghkro4aredz3mut.png" alt="" />
+												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149431/fueler-emoji/wgyvec0qmcjctujfslx7.png" alt="" />
 											</div>
 											<div className='card-content'>
 												<p className='mb-0 text-basic fw-500'>Come up with a list of 30 brands who don't have blog on their website</p>
@@ -74,7 +74,7 @@ function App() {
 									<div className="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center">
 										<div className='d-flex justify-content-start flex-wrap align-items-center'>
 											<div className='card-icon my-3 mr-2'>
-												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149280/fueler-emoji/vfx1bghkro4aredz3mut.png" alt="" />
+												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149685/fueler-emoji/ftojrqu17nf5cjkm6ypb.png" alt="" />
 											</div>
 											<div className='card-content'>
 												<p className='mb-0 text-basic fw-500'>Write a case study on "How Meme marketing is helping brands grow their internet presence?" </p>
@@ -99,7 +99,7 @@ function App() {
 									<div className="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center">
 										<div className='d-flex justify-content-start flex-wrap align-items-center'>
 											<div className='card-icon my-3 mr-2'>
-												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149280/fueler-emoji/vfx1bghkro4aredz3mut.png" alt="" />
+												<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/man-artist_1f468-200d-1f3a8.png" alt="" />
 											</div>
 											<div className='card-content'>
 												<p className='mb-0 text-basic fw-500'>Prepare a social media marketing plan to grow Mansi to 10k followers on Twitter</p>
@@ -124,7 +124,7 @@ function App() {
 									<div className="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center">
 										<div className='d-flex justify-content-start flex-wrap align-items-center'>
 											<div className='card-icon my-3 mr-2'>
-												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149280/fueler-emoji/vfx1bghkro4aredz3mut.png" alt="" />
+												<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/fire_1f525.png" alt="" />
 											</div>
 											<div className='card-content'>
 												<p className='mb-0 text-basic fw-500'>Come up with a list of prospect who is running a business with $100k YOY revenue</p>
@@ -147,7 +147,7 @@ function App() {
 									<div className="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center">
 										<div className='d-flex justify-content-start flex-wrap align-items-center'>
 											<div className='card-icon my-3 mr-2'>
-												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149280/fueler-emoji/vfx1bghkro4aredz3mut.png" alt="" />
+												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149894/fueler-emoji/cvvhxbsssxjqy26ctcfe.png" alt="" />
 											</div>
 											<div className='card-content'>
 												<p className='mb-0 text-basic fw-500'>
