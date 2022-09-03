@@ -1,4 +1,4 @@
-// import logo from './logo.svg';
+import header from './images/header-banner.jfif';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 import './App.css';
 
@@ -37,7 +37,7 @@ function App() {
 			<section className='main-body my-3'>
 
 				<div className='main-body-heading text-center py-3'>
-					<h1 className='fw-bold primary-color'>Proof of Work Ideas</h1>
+					<h1 className='fw-bold primary-color'>Our Proof of Work Ideas</h1>
 				</div>
 
 				<div className="container">
@@ -102,7 +102,7 @@ function App() {
 												<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/man-artist_1f468-200d-1f3a8.png" alt="" />
 											</div>
 											<div className='card-content'>
-												<p className='mb-0 text-basic fw-500'>Prepare a social media marketing plan to grow Mansi to 10k followers on Twitter</p>
+												<p className='mb-0 text-basic fw-500'>Prepare a social media marketing plan to grow Manasi to 10k followers on Twitter</p>
 											</div>
 										</div>
 										<div className='card-tag'>
