@@ -143,6 +143,15 @@ footer{
     	  height: 180px;
     }
 
+	.main-header .main-header-background-image {
+		height: 100%;
+		background-image: url('https://s3.us-east-2.amazonaws.com/fueler.io-images/brands/tcc/header-banner.jfif');
+		background-size: cover;
+		background-position: left;
+		border-radius: 1rem;
+		overflow: hidden;
+	}
+
 	.main-header-profile{
 		width: fit-content;
 		position: absolute;
