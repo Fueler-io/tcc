@@ -1,4 +1,3 @@
-import header from './images/header-banner.jfif';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 import './App.css';
 
