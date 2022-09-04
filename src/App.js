@@ -6,7 +6,9 @@ function App() {
 		<div className="container-fluid main">
 			{/* Header */}
 			<header className="main-header my-3">
-				<div className="main-header-background-image"></div>
+				<div className="main-header-background-image">
+					<img src="https://s3.us-east-2.amazonaws.com/fueler.io-images/brands/tcc/header-banner.jfif" alt="" />
+				</div>
 				<div className="container">
 					<div className="main-header-profile mb-4">
 
@@ -35,7 +37,7 @@ function App() {
 
 			<section className='main-body my-3'>
 
-				<div className='main-body-heading text-center py-3'>
+				<div className='container main-body-heading text-center py-3'>
 					<h1 className='fw-bold primary-color'>Our Proof of Work Ideas</h1>
 				</div>
 
