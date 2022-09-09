@@ -1,5 +1,6 @@
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 import './App.css';
+import logo from './images/logo.jpeg'
 
 function App() {
 	return (
@@ -16,7 +17,7 @@ function App() {
 							<div className="col-md-11">
 								<div className='d-flex justify-content-between align-items-end'>
 									<div>
-										<img className="rounded-circle mb-4" src="https://www.theclueless.company/wp-content/uploads/2021/08/logo-clueless.svg" alt="" />
+										<img className="rounded-circle mb-4" src={logo} alt="" />
 									</div>
 									<div>
 										<a href="https://www.theclueless.company/" id='website-button' className='btn primary-button px-3 fw-500'>Our Website</a>
